@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clicky-homework/static/css/main.1675bfcb.chunk.css",
+    "main.js": "/clicky-homework/static/js/main.cca52428.chunk.js",
+    "main.js.map": "/clicky-homework/static/js/main.cca52428.chunk.js.map",
+    "runtime-main.js": "/clicky-homework/static/js/runtime-main.369fb3b0.js",
+    "runtime-main.js.map": "/clicky-homework/static/js/runtime-main.369fb3b0.js.map",
+    "static/js/2.7094c867.chunk.js": "/clicky-homework/static/js/2.7094c867.chunk.js",
+    "static/js/2.7094c867.chunk.js.map": "/clicky-homework/static/js/2.7094c867.chunk.js.map",
+    "index.html": "/clicky-homework/index.html",
+    "precache-manifest.a689c91517fe596f3930051a9d3325b5.js": "/clicky-homework/precache-manifest.a689c91517fe596f3930051a9d3325b5.js",
+    "service-worker.js": "/clicky-homework/service-worker.js",
+    "static/css/main.1675bfcb.chunk.css.map": "/clicky-homework/static/css/main.1675bfcb.chunk.css.map",
+    "static/js/2.7094c867.chunk.js.LICENSE.txt": "/clicky-homework/static/js/2.7094c867.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369fb3b0.js",
+    "static/js/2.7094c867.chunk.js",
+    "static/css/main.1675bfcb.chunk.css",
+    "static/js/main.cca52428.chunk.js"
+  ]
+}
